@@ -1,0 +1,14 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shell.js",
+  "scripts": {
+    "start": "node shell.js"
+  },
+  "author": "Saood Ahmad",
+  "license": "ISC",
+  "dependencies": {
+   
+  }
+}
