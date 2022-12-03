@@ -1,6 +1,14 @@
 # Node-Shell
 Toy shell written in node.js
 
+## Installation
+
+In the root of the project run the following commands
+
+```bash
+  node shell.js
+```
+
 ## Features
 
 - [x] ls <directory_name> command
